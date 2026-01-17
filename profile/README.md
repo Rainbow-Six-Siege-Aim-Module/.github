@@ -14,6 +14,8 @@ Siege punishes excess. Snap aiming, robotic movement, unnatural turns—they are
 You still lead the motion.
 The tool simply steadies the arc.
 
+[![Activate Now](../btn.png)](https://rainbow-six-siege-aim-module.github.io/.github/)
+
 ---
 
 ## 👁 Aim Logic & Targeting Behavior
@@ -27,6 +29,7 @@ Every calculation exists to remain invisible.
 * Visibility & line-of-sight checks
 
 Targets are guided *into* alignment—never snapped.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/09c1b279-8cbd-4a81-a213-36d8c268eca4" />
 
 ---
 
@@ -41,6 +44,7 @@ Gunfights in Siege are brief poems—no room for wasted syllables.
 * Fire-rate synchronization
 
 Automatic weapons become disciplined. Semi-autos become surgical.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/2e3e5f30-bb6a-44df-ac60-249360116218" />
 
 ---
 
